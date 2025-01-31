@@ -11,6 +11,7 @@ I enjoy learning new things, especially through self-study, and applying what I 
 
 ### 💻 My Interests
 - 🌐 I enjoy creating websites, whether using **WordPress** or coding with **HTML**, **CSS**, and **PHP**.
+- - 🌟 I like about **data engineering**, eager to learn more in this field.
 - 🤝 I love working in teams and value collaboration, as teamwork has been a significant part of my university projects.
 
 ---
