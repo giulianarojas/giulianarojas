@@ -10,14 +10,15 @@ I enjoy learning new things, especially through self-study, and applying what I 
 ---
 
 ### 💻 My Interests
-- 🌟 I am passionate about **data engineering**, always eager to learn more in this field.
 - 🌐 I enjoy creating websites, whether using **WordPress** or coding with **HTML**, **CSS**, and **PHP**.
 - 🤝 I love working in teams and value collaboration, as teamwork has been a significant part of my university projects.
 
 ---
 
-### 📚 Currently Learning
-- 📊 I am currently still learning Python, focusing on both data analysis and web development with other technologies.
+📚 Currently Learning
+🚀 Expanding my knowledge in web development, refining both frontend and backend skills.
+🔍 Exploring best practices for building scalable and efficient applications.
+🎯 Continuously improving problem-solving techniques.
 
 ---
 
