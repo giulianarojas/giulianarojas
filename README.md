@@ -11,7 +11,7 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **Univ
 Actualmente, mis repositorios reflejan mi experiencia en el desarrollo de software (¡como mi reciente participación en el Vibeathon 2026 de Nerdearla!). Sin embargo, también me estoy orientando fuertemente al análisis de datos, por lo que pronto estaré publicando mis proyectos de Data Analytics.
 
 ### 💻 Intereses
-- 🛠️ **Desarrollo de software**: aplicaciones backend con **Python**, (**Django**, **fastAPI**) y bases de datos relacionales (MySQL, SQL Server, SQLite), además de frontend con **HTML**, **CSS** y **Bootstrap**.
+- 🛠️ **Desarrollo de software**: aplicaciones backend con **Python**, (**Django**, **fastAPI**) y bases de datos relacionales (MySQL, SQL Server, SQLite), además de frontend con **HTML**, **CSS**, **Bootstrap** y **JavaScript**.
 - 📊 **Datos**: consultas en **SQL** y **BigQuery**, dashboards de análisis y visualización en **Power BI**, **Excel** y limpieza de datos con **Python**.
 - 🤝 Me gusta trabajar en equipo; la colaboración fue clave en mis proyectos universitarios.
 ---
