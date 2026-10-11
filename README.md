@@ -4,8 +4,6 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
-**Backend Developer & Data Analyst** 👩🏻‍💻📊
-
 Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **Universidad Tecnológica Nacional (UTN - FRT)**.
 
 Actualmente, mis repositorios reflejan mi experiencia en el desarrollo de software (¡como mi reciente participación en el Vibeathon 2026 de Nerdearla!). Sin embargo, también me estoy orientando fuertemente al análisis de datos, por lo que pronto estaré publicando mis proyectos de Data Analytics.
