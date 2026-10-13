@@ -81,7 +81,7 @@ Actualmente, mis repositorios reflejan mi experiencia en el desarrollo de softwa
 <section>
  
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuliana-rojas-918aa2281/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giulianaroj5@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giulianarojas025@gmail.com)
   
 </section>
 
